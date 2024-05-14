@@ -25,10 +25,10 @@
             "required": true,
             "value": "Vajira"      
         },
-        "OWNER_NUMBER": {
+        "OWNER_NUMBER": {255737552716}
             "description": "put your number here",
             "required": true,
-            "value": "94719199757"
+            "value": "255737552716"
         },
         "IMAGE": {
             "description": "Put bot image url here",
